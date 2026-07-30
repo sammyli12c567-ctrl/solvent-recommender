@@ -1,4 +1,4 @@
-# Solvent Recommendation System (Version 1)
+# Solvent Recommendation System 
 
 ## Overview
 This project is a Python-based rule system that recommends suitable organic solvents for chemical reactions based on polarity, reaction type, and toxicity levels.
